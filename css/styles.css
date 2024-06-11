@@ -1,0 +1,11 @@
+h1{
+    color: blue;
+    text-align: center;
+    font-style: italic;
+}
+#header{
+    color: aqua;
+}
+.wrapper{
+    color: hwb(120 0% 0%);
+}
